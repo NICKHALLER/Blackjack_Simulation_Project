@@ -24,5 +24,5 @@ Monte Carlo simulation of 10000 blackjack games comparing basic strategy to inte
 
 
 
-*ChatGPT was used for logic structuring and debugging to accelerate learning and implementation
+
 
